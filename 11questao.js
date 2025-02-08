@@ -1,3 +1,3 @@
-for (let i =1; i<= 10; i++){
-console.log(`7 X ${i} = ${7 * i}`);
+for (let j =1; j<= 10; j++){
+console.log(`7 X ${j} = ${7 * j}`);
 }

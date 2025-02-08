@@ -2,9 +2,9 @@ function somar(num1, num2){
     return num1 + num2;
 }
 
-let numero1 = 5;
-let numero2 = 4;
+let n1 = 5;
+let n2 = 4;
 
-let resultado = somar(numero1, numero2);
+let resultado = somar(n1, n2);
 
-console.log(`O resultado da soma é: ${numero1} + ${numero2} = ${resultado} `);
+console.log(`O resultado da soma é: ${n1} + ${n2} = ${resultado} `);
